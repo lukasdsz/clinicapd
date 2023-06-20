@@ -1,0 +1,31 @@
+.agend{
+  background: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+.agend .container{
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+.agend .container .title{
+  color: #131212;
+  font-size: 24px;
+  margin-bottom: 10px;
+  display: block;
+}
+.agend .container .btn{
+  background-color: #f8dbdb;
+  color: #131212;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.agend .container .btn:hover{
+  background-color: #131212;
+  color: #fa7979;
+}

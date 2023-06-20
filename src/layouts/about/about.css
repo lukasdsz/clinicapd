@@ -1,0 +1,16 @@
+.about{
+  background: #fff;
+}
+
+
+.box{
+  display: flex;
+  gap: 16px;
+}
+
+.about .container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+}
